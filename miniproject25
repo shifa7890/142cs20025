@@ -1,0 +1,8 @@
+a=5
+b=3
+c=a+b
+d=a//b
+e=a**b
+print("addition value is:/n",c)
+print("floor division value is:/n",d)
+print("exponent value is:/n",e)
